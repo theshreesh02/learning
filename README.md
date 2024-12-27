@@ -1,4 +1,4 @@
 # learning
 Learning from base
 <br>
-Author - me
+Author - me and you
